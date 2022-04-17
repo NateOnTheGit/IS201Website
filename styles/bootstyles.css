@@ -1,0 +1,70 @@
+.tabGreen {
+    background-color: rgb(190, 220, 200);
+}
+
+
+.divCommon {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(171, 186, 220);
+    border: solid 5px rgb(162, 162, 162);
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    text-align: right;
+}
+
+.content {
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    right: 20px;
+    bottom: 45px;
+}
+
+.sheet1 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 350px;
+}
+
+.sheet2 {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 350px;
+}
+
+.sheet3 {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    width: 350px;
+}
+
+.sheet4 {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 350px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+}
+
+.caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: grey;
+}
+
+.footerText {
+    text-align: center;
+}
